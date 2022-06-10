@@ -1,2 +1,2 @@
 # sample
-sample project sampleasdfadfadfadsfdaff
+sample project samfadfadsfdaff
